@@ -1,9 +1,9 @@
 # FilamentExtruder_codes
 
 
-This repo has 3 different codes, each with its own function.
+This repo has 4 different codes, each with its own function.
 
-In these codes I have used stepper motor and an easy driver.Limit swich is used in stepper_with_limitswitch code.
+In these codes I have used stepper motor and an easy driver in roller_code and stepper_changespeed.Limit swich is used in stepper_with_limitswitch code. An OLED screen and potentiometer is used in OLED_code_with_potentiometer code.
 
 
 The roller_code is the code for stepper to run at a particular speed which is defined in the code till the stepper has power.
